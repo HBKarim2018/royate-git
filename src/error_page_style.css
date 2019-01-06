@@ -1,0 +1,12 @@
+/*=======================*/
+/*== title ==*/
+/* Backgrounds */
+.background_error {
+  background-image: url("/images/backgrounds/bg_error.jpg");
+  background-repeat: no-repeat;
+  background-size: 200% auto;
+}
+/*==========*/
+.height_screen {
+  height: 135vw;
+}

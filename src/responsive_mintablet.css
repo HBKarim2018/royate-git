@@ -1,0 +1,154 @@
+@media only screen and (max-width: 991px) and (min-width: 768px) {
+  /*==Header==*/
+  header {
+    background-color: #181818 !important;
+  }
+  header .logo {
+    width: 50% !important;
+  }
+  header .fa {
+    font-size: 15px !important;
+  }
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 80px;
+    text-align: left;
+    height: 300vw;
+    width: 100%;
+    padding-left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 0;
+    opacity: 0;
+  }
+  .navbar-collapse .navbar-nav {
+    width: 50%;
+    background: #181818;
+    padding: 70px;
+    height: 100%;
+    margin-left: -50%;
+  }
+  /*== Title Page ==*/
+  .head_size_high {
+    font-size: 54px !important;
+  }
+  .height_video_fullscreen {
+    height: 66vw;
+  }
+  .p_margin_lg {
+    margin: 1% 0 !important;
+  }
+  .head_size_low {
+    font-size: 17px !important;
+  }
+  .w_responsive_150 {
+    width: 150% !important;
+  }
+  .padding_x_high {
+    padding: 30vw 0;
+  }
+  /*== Welcome Page ==*/
+  .height_img_post {
+    max-height: 230px !important;
+  }
+  .padding_bottom_responsive_10 {
+    padding-bottom: 10%;
+  }
+  /*== Our Food ==*/
+  .head_span_size_normal {
+    font-size: 25px !important;
+  }
+  .padding_x_responsive_0 {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  h5 {
+    font-size: 16px !important;
+  }
+  /*== Special Food Page ==*/
+  .head_size_normal {
+    font-size: 23px !important;
+  }
+  .height_p {
+    max-height: 74px;
+  }
+  .owl-carousel .owl-item img {
+    width: 80%;
+    margin: 0 auto;
+  }
+  /*== Book A Table ==*/
+
+  .height-section {
+    height: 80vw;
+  }
+  .right_responsive_50 {
+    right: 50px;
+  }
+  .margin_bottom_responsive_0 {
+    margin-bottom: 0 !important;
+  }
+  .margin_bottom_responsive_5 {
+    margin-bottom: 5% !important;
+  }
+  .padding_bottom_responsive_0 {
+    padding-bottom: 0 !important;
+  }
+  .width_md_img_230 {
+    width: 230% !important;
+  }
+  .ml_img_md_70 {
+    margin-left: -70%;
+  }
+  /*== News Section Page ==*/
+
+  .date {
+    padding: 6px 10px;
+  }
+  .date_day {
+    font-size: 35px;
+  }
+  /*========================*/
+  /*== pages ==*/
+  /*== Shop page ==*/
+  .image_product {
+    height: 50vw;
+    cursor: pointer;
+  }
+  .image_margin {
+    margin-left: 0;
+  }
+  /* = Menu Page = */
+  .background_soup {
+    background-size: 135% auto;
+  }
+  .background_drink {
+    background-size: 165% auto;
+  }
+  .background_dessert {
+    background-size: 123% auto;
+  }
+  /*= About Page =*/
+  .ourStory,
+  .ourStory_about_content {
+    height: auto;
+    padding-bottom: 5%;
+  }
+  .ourStory_about {
+    position: relative !important;
+    top: 0;
+    right: 0;
+  }
+  .background_ourServices,
+  .background_ourServices .backgroud_dark_opacity {
+    background-size: auto 100% !important;
+    height: auto !important;
+  }
+  .width_responsive_30 {
+    width: 30% !important;
+  }
+  /*== Footer ==*/
+  .margin_bottom_responsive_10 {
+    margin-bottom: 10% !important;
+  }
+}

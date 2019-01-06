@@ -1,0 +1,91 @@
+@media only screen and (max-width: 1200px) and (min-width: 992px) {
+  /*==Header==*/
+  header {
+    background-color: #181818 !important;
+  }
+  header .logo {
+    width: 50% !important;
+  }
+  header .fa {
+    font-size: 15px !important;
+  }
+  .navbar-collapse {
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 80px;
+    text-align: left;
+    height: 300vw;
+    width: 100%;
+    padding-left: 0;
+    background: rgba(0, 0, 0, 0.5);
+    padding-top: 0;
+    opacity: 0;
+  }
+  .navbar-collapse .navbar-nav {
+    width: 50%;
+    background: #181818;
+    padding: 70px;
+    height: 100%;
+    margin-left: -50%;
+  }
+  /*== Title Page ==*/
+  .head_size_high {
+    font-size: 54px !important;
+  }
+  .p_margin_lg {
+    margin: 1% 0 !important;
+  }
+  .head_size_low {
+    font-size: 17px !important;
+  }
+  /*== Welcome Page ==*/
+  .height_img_post {
+    max-height: 200px !important;
+  }
+  /*== Special Food Page ==*/
+  .head_size_normal {
+    font-size: 35px !important;
+  }
+  .height_p {
+    max-height: 150px;
+  }
+  /*== Book A Table ==*/
+  .height-section {
+    height: 66vw;
+  }
+  .width_lg_img_184 {
+    width: 184% !important;
+  }
+  .ml_img_lg_43 {
+    margin-left: -43%;
+  }
+  /*== News Section Page ==*/
+
+  .date {
+    padding: 4px 7.5px;
+  }
+  .date_day {
+    font-size: 30px;
+  }
+  /*===================*/
+  /*== pages ==*/
+  /* = Menu Page = */
+  .background_drink {
+    background-size: 128% auto;
+  }
+  /* = About Page = */
+  .ourStory_text {
+    top: 0;
+  }
+  .w-120 {
+    width: 120% !important;
+  }
+  .background_services {
+    padding: 5px 17px;
+  }
+  /*== Post PAge ==*/
+  .post_details {
+    padding: 0 6% !important;
+  }
+}

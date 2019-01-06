@@ -1,0 +1,18 @@
+/*== title ==*/
+/* Backgrounds */
+.background_contact {
+  background-image: url("/images/backgrounds/bg_contact.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+/*=================*/
+/*== Contact ==*/
+.formContact input,
+.formContact textarea {
+  border: 1px solid #e5e5e5;
+}
+/*================*/
+/*== Google Map ==*/
+.googleMap {
+  margin-bottom: -10%;
+}

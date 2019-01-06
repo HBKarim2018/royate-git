@@ -1,0 +1,12 @@
+/*== title ==*/
+/* Backgrounds */
+.background_reservation {
+  background-image: url("/images/backgrounds/bg_reservation.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+/*=================*/
+/* Contact */
+.right_50 {
+  right: 50px;
+}

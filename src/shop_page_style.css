@@ -1,0 +1,42 @@
+/*== title ==*/
+/* Backgrounds */
+.background_shop {
+  background-image: url("/images/backgrounds/bg_shop.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+/*== Image Viewer ==*/
+.sp-thumbs {
+  width: 100%;
+}
+.sp-thumbs a:link,
+.sp-thumbs a:visited {
+  width: 14.5%;
+  height: 5vw;
+  margin: 1%;
+}
+/*================*/
+/*== Nav ==*/
+.nav-link.active {
+  color: #cdaa7c !important;
+}
+/*================*/
+/*== Product ==*/
+.image_product {
+  height: 28vw;
+  cursor: pointer;
+}
+.image_margin {
+  margin-left: -10%;
+}
+.cart_box {
+  background-color: #cdaa7c;
+  color: #fff;
+  padding: 10px;
+  margin-bottom: 0;
+}
+
+.cart_box a:hover,
+.formContact a {
+  color: #fff !important;
+}

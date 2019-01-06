@@ -1,0 +1,77 @@
+/*==Global Style Classes==*/
+.padding_25 {
+  padding: 25px !important;
+}
+.padding_y_25 {
+  padding: 25px 0 !important;
+}
+p {
+  line-height: 2;
+}
+/*=======================*/
+/*== title ==*/
+/* Backgrounds */
+.background_about {
+  background-image: url("/images/backgrounds/bg_about.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+.backgroud_dark_opacity {
+  background-color: rgba(0, 0, 0, 0.7);
+}
+/*==========*/
+/*== Our Story ==*/
+.background_ourStory {
+  background-image: url("/images/backgrounds/bg_ourStory.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+  background-position-x: center;
+}
+.height_83 {
+  height: 83vw;
+}
+.height_66 {
+  height: 66vw;
+}
+.w-30 {
+  width: 30% !important;
+}
+.ourStory_text {
+  top: 100px;
+  right: 25%;
+}
+.ourStory_text_content {
+  border: 1px solid #accadd;
+  padding-top: 70px;
+  padding-bottom: 25px;
+}
+.ourStory_text h3 {
+  font-size: 55px;
+}
+.ourStory_text .ourStory_text_line {
+  margin-top: -37px;
+  margin-left: -10px;
+}
+.ourStory_text p {
+  margin: 25px;
+}
+/*==============*/
+/*== Our Services ==*/
+.background_ourServices {
+  background-image: url("/images/backgrounds/bg_ourServices.jpg");
+  background-repeat: no-repeat;
+  background-size: auto 100%;
+}
+.background_services {
+  background-color: #cdaa7c;
+  border: 2px solid #80694d;
+  padding: 25px 18px;
+}
+.background_services:hover {
+  background-color: transparent;
+}
+/*==============*/
+/*== About Us ==*/
+.background_color {
+  background: #eae7de;
+}

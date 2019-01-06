@@ -1,0 +1,33 @@
+/*== title ==*/
+/* Backgrounds */
+.background_menu {
+  background-image: url("/images/backgrounds/bg_menu.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-position-x: center;
+}
+.background_soup {
+  background-image: url("/images/menu_page/soups/bg_soup.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-position-y: 25%;
+  background-position-x: center;
+}
+.background_drink {
+  background-image: url("/images/menu_page/drinks/bg_drinks.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-position-y: 25%;
+  background-position-x: center;
+}
+.background_dessert {
+  background-image: url("/images/menu_page/desserts/bg_desserts.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+  background-attachment: fixed;
+  background-position-y: 25%;
+  background-position-x: center;
+}
+/*=================*/

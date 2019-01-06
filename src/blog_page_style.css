@@ -1,0 +1,8 @@
+/*== title ==*/
+/* Backgrounds */
+.background_blog {
+  background-image: url("/images/backgrounds/bg_blog.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% auto;
+}
+/*=============*/
